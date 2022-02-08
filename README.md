@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RajashreeSundaram
-- 👀 I’m interested in coding and learning 
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on projects related to NLP
 - 📫 How to reach me rsagatheswaran18@gmail.com
